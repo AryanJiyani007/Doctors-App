@@ -42,6 +42,7 @@ export default async function Header() {
 
         {/* Action Buttons */}
         <div className="flex items-center space-x-3">
+          <ThemeSwitcher /> 
           <SignedIn>
             {/* Admin Links */}
             {user?.role === "ADMIN" && (
@@ -153,7 +154,6 @@ export default async function Header() {
               }}
               afterSignOutUrl="/"
             />
-            <ThemeSwitcher /> {/* ✅ Theme toggle beside profile icon */}
           </SignedIn>
         </div>
       </nav>
