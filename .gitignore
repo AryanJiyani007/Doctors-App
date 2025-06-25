@@ -1,1 +1,35 @@
-node_modules
+# Node modules
+node_modules/
+
+# Build output
+.next/
+out/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Prisma
+prisma/migrations/
+*.sqlite
+*.db
+
+# Clerk Dev instance (if any)
+.clerk/
+
+# Vercel
+.vercel/
+
+# VSCode
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
