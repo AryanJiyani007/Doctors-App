@@ -43,6 +43,33 @@
 
 ### 1️⃣ Clone the Repository
 
-```bash
 git clone https://github.com/AryanJiyani007/Doctors-App.git
 cd Doctors-App
+
+### 2️⃣ Install Dependencies
+
+npm install
+
+### 3️⃣ Configure Environment Variables
+
+.env
+
+DATABASE_URL=
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+
+CLERK_SECRET_KEY=
+
+VONAGE_API_KEY=
+
+VONAGE_API_SECRET=
+
+### 4️⃣ Push Prisma Schema to Database
+
+npx prisma db push
+
+### 5️⃣ Start the Development Server
+
+npm run dev
+
+
