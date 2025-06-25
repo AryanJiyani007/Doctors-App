@@ -1,0 +1,148 @@
+{
+  "node": {
+    "400ed2d9aaf70feafd5be7e80819dcf19f400be202": {
+      "workers": {
+        "app/(main)/admin/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/admin/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/credits.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/admin/page": "rsc"
+      }
+    },
+    "6006f7c0dc7a55e265da378d21039747fdac164787": {
+      "workers": {
+        "app/(main)/admin/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/admin/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/credits.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/admin/page": "rsc"
+      }
+    },
+    "7f902192581d916d1bec9dc801b35b1146b9eef8e9": {
+      "workers": {
+        "app/(main)/admin/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/admin/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/credits.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/admin/page": "action-browser"
+      }
+    },
+    "7fc8a96d31b00002afc0593884d599d61e8022a111": {
+      "workers": {
+        "app/(main)/admin/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/admin/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/credits.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/admin/page": "action-browser"
+      }
+    },
+    "7ff2a7825940f9a780478fdb6a4d4b47db1faa4d4d": {
+      "workers": {
+        "app/(main)/admin/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/admin/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/credits.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/admin/page": "action-browser"
+      }
+    },
+    "7f1b5fe849827bb3e2df4286304227969dab655d55": {
+      "workers": {
+        "app/(main)/admin/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/admin/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/credits.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/admin/page": "action-browser"
+      }
+    },
+    "006246c7306ce4d664688d807af169f7a7fe22ba7c": {
+      "workers": {
+        "app/(main)/admin/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/admin/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/credits.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/admin/page": "rsc"
+      }
+    },
+    "0096f3527d6f574cc20c0cb3a41f0ce19debde3949": {
+      "workers": {
+        "app/(main)/admin/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/admin/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/credits.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/admin/page": "rsc"
+      }
+    },
+    "00be14b0adff64cc40bc83a857c7af1536e5a84600": {
+      "workers": {
+        "app/(main)/admin/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/admin/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/credits.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/admin/page": "rsc"
+      }
+    },
+    "00d4aa3628a2a6ef9e6c7ded00ef8352f94320ca3e": {
+      "workers": {
+        "app/(main)/admin/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/admin/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/credits.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/admin/page": "rsc"
+      }
+    },
+    "4028698ac7497ddfd2c38e11ea7456eb0fdbce2c9a": {
+      "workers": {
+        "app/(main)/admin/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/admin/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/credits.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/admin/page": "action-browser"
+      }
+    },
+    "40a4fb3070bc5fe0b48cee683cf6e32e433de24ffe": {
+      "workers": {
+        "app/(main)/admin/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/admin/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/credits.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/admin/page": "action-browser"
+      }
+    },
+    "40ad454eeab5fca840ab06d1b086b5fa09d0b76a38": {
+      "workers": {
+        "app/(main)/admin/page": {
+          "moduleId": "[project]/.next-internal/server/app/(main)/admin/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/credits.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/actions/admin.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(main)/admin/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

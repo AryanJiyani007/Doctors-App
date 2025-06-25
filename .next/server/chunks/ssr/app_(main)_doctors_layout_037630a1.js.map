@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///D:/Web%20development/projects/doctors-appointment-platform/app/%28main%29/doctors/layout.js"],"sourcesContent":["export const metadata = {\r\n  title: \"Find Doctors - MediMeet\",\r\n  description: \"Browse and book appointments with top healthcare providers\",\r\n};\r\n\r\nexport default async function DoctorsLayout({ children }) {\r\n  return (\r\n    <div className=\"container mx-auto px-4 py-12\">\r\n      <div className=\"max-w-6xl mx-auto\">{children}</div>\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;;AAAO,MAAM,WAAW;IACtB,OAAO;IACP,aAAa;AACf;AAEe,eAAe,cAAc,EAAE,QAAQ,EAAE;IACtD,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC;YAAI,WAAU;sBAAqB;;;;;;;;;;;AAG1C","debugId":null}}]
+}

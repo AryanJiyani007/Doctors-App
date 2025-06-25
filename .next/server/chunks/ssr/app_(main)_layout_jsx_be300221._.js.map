@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///D:/Web%20development/projects/doctors-appointment-platform/app/%28main%29/layout.jsx"],"sourcesContent":["import React from \"react\";\r\n\r\nconst MainLayout = ({ children }) => {\r\n  return <div className=\"container mx-auto my-20\">{children}</div>;\r\n};\r\n\r\nexport default MainLayout;\r\n"],"names":[],"mappings":";;;;AAAA;;;AAEA,MAAM,aAAa,CAAC,EAAE,QAAQ,EAAE;IAC9B,qBAAO,8OAAC;QAAI,WAAU;kBAA2B;;;;;;AACnD;uCAEe","debugId":null}}]
+}
